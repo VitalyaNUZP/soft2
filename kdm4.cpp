@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <queue>
 using namespace std;
-//функція виводу рядка 
+//функція виводу рядка в файл
 void showLine(vector<int> line) {
 
 	static int step = 1;
